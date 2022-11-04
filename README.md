@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/yasirkn/Product-preview-card-component.github.io)
-- Live Site URL: [Add live site URL here](https://yasirkn.github.io/Product-preview-card-component.github.io/)
+- Solution URL: [Link to the solution](https://github.com/yasirkn/Product-preview-card-component.github.io)
+- Live Site URL: [Final Preveiw ](https://yasirkn.github.io/Product-preview-card-component.github.io/)
 
 ### Built with
 
