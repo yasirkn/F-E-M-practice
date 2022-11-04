@@ -14,7 +14,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Overview
  
- - Build the Product Preview Card.
+ - Build the Product Preview Card using pure html and css.
 
 ### The challenge
 
